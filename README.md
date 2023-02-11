@@ -1,6 +1,6 @@
 # Covid Data Analysis using SQL
 
-# Dataset
+**Dataset**
 
 This Covid dataset is taken from [click here](https://ourworldindata.org/covid-deaths)
 
